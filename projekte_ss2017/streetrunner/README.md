@@ -1,24 +1,16 @@
-Hallo Kristian,
 
-es freut mich riesig zu hören dass mein Programm dir gefällt hat :D
-Die SDL2 mixer Bibliothek ist so praktisch, ich kann es dir nur empfehlen.
-Vielen Dank für deine Komplimente, es motiviert mich weiter mit C++ zu
-beschäftigen!
+# Streetrunner
 
-Die Grafiken und die Musik sind beide von CC und Public Domain Lizenzen,
-also es wäre auf jeden Fall möglich das Programm unter meine Name zu
-veröffentlichen.
+**von Arturo Jose Maximiliano Bertoglia Fuentes**
 
-Als Credits sollte man hinzufügen:
+## Lizenzen
 
-Für die Hintergrund Grafik
-by ansimuz.com from opengameart.org
+Das Spiel ist unter der MIT Lizenz verfügbar.
 
-Für das Ball Sprite
-by deiphiz from opengameart.org
+Die Grafiken und die Musik sind unter CC und Public Domain Lizenzen veröffentlicht.
 
-Für die Musik
-Santiago All Stars - Santiago (Prod. Satrumentalz)
+## Credits
 
-Viele Grüße,
-Arturo
+* Hintergrundgrafik by ansimuz.com from opengameart.org
+* Ball Sprite by deiphiz from opengameart.org
+* Musik by Santiago All Stars - Santiago (Prod. Satrumentalz)
