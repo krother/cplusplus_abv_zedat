@@ -3,13 +3,24 @@
 
 ## Im Sommersemester 2017
 
+
 ### Weltraumquiz
 
 **von Luca Pauline Paeschke**
 
 ![Weltraumquiz](projekte_ss2017/weltraumquiz/bilder/Frage2mitText.fw.png)
 
-[Code und Beschreibung zum Spiel](projekte_ss2017/weltraumquiz/README.md)
+[Code und Beschreibung zum Spiel](projekte_ss2017/weltraumquiz/)
+
+----
+
+### Trojtris
+
+**von Andreas Trojand**
+
+![Trojtris](projekte_ss2017/trojtris/screenshot.png)
+
+[Code und Beschreibung zum Spiel](projekte_ss2017/trojtris/)
 
 ----
 
@@ -23,7 +34,7 @@
 
 ![Kisten schieben](projekte_ws2016/kisten_schieben/kisten_schieben2.png)
 
-[Code und Beschreibung zum Spiel](projekte_ws2016/kisten_schieben/README.md)
+[Code und Beschreibung zum Spiel](projekte_ws2016/kisten_schieben/)
 
 ----
 
@@ -33,7 +44,7 @@
 
 ![Vier gewinnt](projekte_ws2016/vier_gewinnt/vier_gewinnt.png)
 
-[Code und Beschreibung zum Spiel](projekte_ws2016/vier_gewinnt/README.md)
+[Code und Beschreibung zum Spiel](projekte_ws2016/vier_gewinnt/)
 
 
 
