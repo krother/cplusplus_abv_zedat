@@ -54,7 +54,17 @@
 
 ----
 
+### SDL2 Game 
 
+**von Helliaca**
+
+![SDL2 Game von Helliaca](projekte_ss2017/helliaca_screenshot.png)
+
+[Youtube-Video](https://www.youtube.com/watch?v=upb3DJJbQIM)
+
+[Code und Beschreibung zum Spiel](https://github.com/Helliaca/SDL2-Game)
+
+----
 
 ## Im Wintersemester 2016/2017
 
