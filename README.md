@@ -1,6 +1,20 @@
 
 # Spiele in C++
 
+## Im Sommersemester 2017
+
+### Weltraumquiz
+
+**von Luca Pauline Paeschke**
+
+![Weltraumquiz](projekte_ss2017/weltraumquiz/bilder/Frage2mitText.fw.png)
+
+[Code und Beschreibung zum Spiel](projekte_ss2017/weltraumquiz/README.md)
+
+----
+
+
+
 ## Im Wintersemester 2016/2017
 
 ### Kisten Schieben
