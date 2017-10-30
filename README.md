@@ -44,6 +44,16 @@
 
 ----
 
+### Snake
+
+**von Alexandra Vogels, Hee-yeong Kim und Annemarie Baumert**
+
+![Snake](projekte_ss2017/snake/screenshot.png)
+
+[Code und Beschreibung zum Spiel](projekte_ss2017/snake/)
+
+----
+
 
 
 ## Im Wintersemester 2016/2017
