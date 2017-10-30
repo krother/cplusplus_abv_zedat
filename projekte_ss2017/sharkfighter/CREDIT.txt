@@ -1,0 +1,69 @@
+Thank you to the creators of the artwork, sounds and fonts used in this software!
+
+ARTWORK:
+---------------------------------------
+Water background picture:
+ Name: /
+ Author (as found on page): rh0
+ Link: https://opengameart.org/content/few-water-backgrounds-1366%C3%97768
+
+soldier/player:
+ Name: / (Space Soldier)
+ Author (as found on page): Master484
+ Link: https://opengameart.org/content/space-soldier-m484-games
+ changes made: partially removed the black background
+
+fish:
+ Name: / (2D Retro Fish)
+ Author (as found on page): EXCITESZZ
+ Link: https://opengameart.org/content/2d-retro-fish
+ changes made: I cut down the graphic down to the size I needed
+
+explosion:
+ Name: / (explosion)
+ Author (as found on page): Cuzco
+ Link: https://opengameart.org/content/explosion
+ changes made: I cut out a single explosion from the tileset because I only needed one.
+
+SOUNDS:
+---------------------------------------
+bite.wav
+ Name: Dog Bite Sound
+ Author (as found on page): Mike Koenig
+ Link: http://soundbible.com/1529-Dog-Bite.html
+
+blast.wav
+ Name: Blast Sound
+ Author (as found on page): Mike Koenig
+ Link: http://soundbible.com/538-Blast.html
+
+click.wav
+ Name: Click2 Sound
+ Author (as found on page): Sebastian
+ Link: http://soundbible.com/1705-Click2.html
+
+The upper three sounds were published under the terms of the Attribution 3.0
+License, you can find it here: https://creativecommons.org/licenses/by/3.0/
+
+ping.wav
+ Name: Glass Ping Sound
+ Author (as found on page): Go445
+ Link: http://soundbible.com/2084-Glass-Ping.html
+
+ This sound was published under the terms of the Attribution-NonCommercial 3.0
+ License, you can find it here: https://creativecommons.org/licenses/by-nc/3.0/
+
+
+FONT:
+---------------------------------------
+Wendy One
+ Name: Wendy One
+ Designer (as found on page): Alejandro Inler
+ Link: https://fonts.google.com/specimen/Wendy+One
+
+ This font was published under the terms of the Open Font License. You can find the
+ License here: http://scripts.sil.org/OFL_web
+
+---------------------------------------
+ The changes to the filenames were made solely for the purpose of easier readablility
+ in the repository and source code.

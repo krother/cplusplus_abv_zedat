@@ -24,6 +24,16 @@
 
 ----
 
+### Sharkfighter
+
+**von Sebastian Kulich**
+
+![Sharkfighre](projekte_ss2017/sharkfighter/screenshot.png)
+
+[Code und Beschreibung zum Spiel](projekte_ss2017/sharkfighter/)
+
+----
+
 
 
 ## Im Wintersemester 2016/2017
