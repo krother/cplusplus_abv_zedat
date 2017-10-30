@@ -9,7 +9,7 @@
 
 ![Kisten schieben](projekte_ws2016/kisten_schieben/kisten_schieben2.png)
 
-[Code und Beschreibung zum Spiel](projekte_ws2017/kisten_schieben/README.md)
+[Code und Beschreibung zum Spiel](projekte_ws2016/kisten_schieben/README.md)
 
 ----
 
@@ -17,9 +17,9 @@
 
 **von Natalia Neumeister und Nikola Nikolov**
 
-![Vier gewinnt](projekte_ws2017/vier_gewinnt/vier_gewinnt.png)
+![Vier gewinnt](projekte_ws2016/vier_gewinnt/vier_gewinnt.png)
 
-[Code und Beschreibung zum Spiel](projekte_ws2017/vier_gewinnt/README.md)
+[Code und Beschreibung zum Spiel](projekte_ws2016/vier_gewinnt/README.md)
 
 
 
