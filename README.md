@@ -28,7 +28,7 @@
 
 **von Sebastian Kulich**
 
-![Sharkfighre](projekte_ss2017/sharkfighter/screenshot.png)
+![Sharkfighter](projekte_ss2017/sharkfighter/screenshot.png)
 
 [Code und Beschreibung zum Spiel](projekte_ss2017/sharkfighter/)
 
@@ -36,7 +36,7 @@
 
 ### Streetrunner
 
-**von **von Arturo Jose Maximiliano Bertoglia Fuentes**
+**von Arturo Jose Maximiliano Bertoglia Fuentes**
 
 ![Streetrunner](projekte_ss2017/streetrunner/screenshot.png)
 
