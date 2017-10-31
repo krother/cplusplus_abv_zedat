@@ -54,6 +54,16 @@
 
 ----
 
+### Das Ziel ist der Weg
+
+**von Cara Enders**
+
+![Das Ziel ist der Weg](projekte_ss2017/das_ziel_ist_der_weg/screenshot.png)
+
+[Code und Beschreibung zum Spiel](projekte_ss2017/das_ziel_ist_der_weg/)
+
+----
+
 ### SDL2 Game 
 
 **von Helliaca**
@@ -63,6 +73,16 @@
 [Youtube-Video](https://www.youtube.com/watch?v=upb3DJJbQIM)
 
 [Code und Beschreibung zum Spiel](https://github.com/Helliaca/SDL2-Game)
+
+----
+
+### MonsterQuest 
+
+**von Yann-Paul Marsch und Max Jacob Stupka**
+
+![MonsterQuest](projekte_ss2017/monsterquest_screenshot.png)
+
+[Code und Beschreibung zum Spiel](https://github.com/JStupka/MonsterQuest)
 
 ----
 
