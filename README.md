@@ -36,7 +36,7 @@
 
 ### Streetrunner
 
-**von **von Arturo Jose Maximiliano Bertoglia Fuentes**
+**von Arturo Jose Maximiliano Bertoglia Fuentes**
 
 ![Streetrunner](projekte_ss2017/streetrunner/screenshot.png)
 
