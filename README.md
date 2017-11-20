@@ -28,7 +28,7 @@
 
 **von Sebastian Kulich**
 
-![Sharkfighre](projekte_ss2017/sharkfighter/screenshot.png)
+![Sharkfighter](projekte_ss2017/sharkfighter/screenshot.png)
 
 [Code und Beschreibung zum Spiel](projekte_ss2017/sharkfighter/)
 
